@@ -26,6 +26,7 @@
   <!-- REAL animated snake that actually eats your grid -->
   <h3>🐍 My contribution snake (updates daily)</h3>
   <picture>
+    <img src="snake.svg" alt="Snake" />
     <source media="(prefers-color-scheme: dark)" srcset="(https://share.google/images/7WTpWTb9zcKfz4Oha)" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nexusofvenus/nexusofvenus/output/github-contribution-grid-snake.svg" />
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/nexusofvenus/nexusofvenus/output/github-contribution-grid-snake-dark.svg" />
