@@ -1,9 +1,10 @@
 <div align="center">
 
-  <!-- Dark aesthetic banner -->
-  <img src="https://pin.it/3Y67QZl1o](https://share.google/images/I0E4Rudt7hQ7OBYXZ" >
+<!-- Dark aesthetic banner -->
+<img src="https://pin.it/3Y67QZl1o](https://share.google/images/I0E4Rudt7hQ7OBYXZ" >
 
-  <h1> HEY! I'm Nyx (aka Anvika)!👋 </h1>
+
+  <h1> HEY! I'm Nyx!👋 </h1>
   <p>Python enthusiast • CS50 '25 • Discord bots & small games • Learning fast, committing faster</p>
 
   <div>
@@ -26,6 +27,8 @@
   <!-- REAL animated snake that actually eats your grid -->
   <h3>🐍 My contribution snake (updates daily)</h3>
   <picture>
+    <img alt="github contribution snake" src="https://raw.githubusercontent.com/nexusofvenus/nexusofvenus/output/github-contribution-grid-snake.svg">
+<img alt="github contribution snake dark" src="https://raw.githubusercontent.com/nexusofvenus/nexusofvenus/output/github-contribution-grid-snake-dark.svg">
     <img src="snake.svg" alt="Snake" />
     <source media="(prefers-color-scheme: dark)" srcset="(https://share.google/images/7WTpWTb9zcKfz4Oha)" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nexusofvenus/nexusofvenus/output/github-contribution-grid-snake.svg" />
