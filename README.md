@@ -1,11 +1,11 @@
 <div align="center">
 
 
-  <h1> Hello! I'm  n y x! </h1>
+  <h1> Hello! I'm  n y x! </h1>https://github.com/hamsterfromhell
   <h3> this user wants to be a Video Game Dev real bad </h3> <hr>
   <p>Python enthusiast • CS50 '25 • Discord bots & small games • creative coder</p>
   
-  ![Profile views](https://komarev.com/ghpvc/?username=nexusofvenus&color=bb86fc&style=flat-square)
+  ![Profile views](https://komarev.com/ghpvc/?username=hamsterfromhell&color=bb86fc&style=flat-square)
 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=nexusofvenus&theme=tokyonight&hide_border=true&background=0d1117" alt="Streak" />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=nexusofvenus&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Activity Graph" />
