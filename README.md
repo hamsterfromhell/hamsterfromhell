@@ -1,52 +1,87 @@
 <div align="center">
 
+  <h1>hamsterfromhell 🐹🔥</h1>
 
-  <h1> Hello! I'm  n y x! </h1>https://github.com/hamsterfromhell
-  <h3> this user wants to be a Video Game Dev real bad </h3> <hr>
-  <p>Python enthusiast • CS50 '25 • Discord bots & small games • creative coder</p>
+  <h3>this user wants to be a Video Game Dev real bad</h3>
+
+  <p>
+    Python enthusiast • CS50 '25 • Discord bots & small games • creative coder<br>
+  </p>
+  <br><br>
+
+
+![Profile views](https://komarev.com/ghpvc/?username=hamsterfromhell&color=ff69b4&label=hamster+visits&style=flat-square)
+![Profile views](https://komarev.com/ghpvc/?username=hamsterfromhell&color=00ff9f&label=visits&style=flat-square)
+![Profile views](https://komarev.com/ghpvc/?username=hamsterfromhell&color=bb86fc&label=chaos+views&style=flat-square)
+
+
+
+<img src="https://github-readme-streak-stats-eight.vercel.app?user=hamsterfromhell&theme=tokyonight" alt="GitHub Streak" />
+<br><br>
+<img 
+  src="https://github-readme-activity-graph.vercel.app/graph?username=hamsterfromhell&theme=tokyonight&hide_border=true&bg_color=0d1117&color=9d7cd8&line=bb86fc&point=ffffff" 
+  alt="Activity Graph" 
+  width="720"
+/>
+
+
+  <br><br>
   
-  ![Profile views](https://komarev.com/ghpvc/?username=hamsterfromhell&color=bb86fc&style=flat-square)
-
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nexusofvenus&theme=tokyonight&hide_border=true&background=0d1117" alt="Streak" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nexusofvenus&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Activity Graph" />
-  
-
-  <!-- Tech stack badges -->
   <h3>⚡ Tools & Tech</h3>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Discord.py-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-  <img src="https://img.shields.io/badge/CS50-EDC220?style=for-the-badge&logo=harvard&logoColor=black" />
+
+  <p>
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+    <img src="https://img.shields.io/badge/Tkinter-GUI-blue?style=for-the-badge" alt="Tkinter"/>
+    <img src="https://img.shields.io/badge/Discord.py-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord.py"/>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
+    <img src="https://img.shields.io/badge/CS50-EDC220?style=for-the-badge&logo=harvard&logoColor=black" alt="CS50"/>
+  </p>
+
+  <br><br>
   
-  <h3>Featured Projects</h3>
-  <a href="https://github.com/nexusofvenus/Venus-Bot"> 👾 Number Guessing Game
-  </a> <br>
-  <a href="https://github.com/nexusofvenus/venus-discord-bot"> 🤖 Venus Discord Bot</a>
+  <h3>🚀 Featured Projects</h3>
 
+  <p>
+    <a href="https://github.com/hamsterfromhell/number-guessing-game">
+      🎲 Number Guessing Game — Tkinter GUI with difficulty modes, stats & binary search tips
+    </a>
+    <br>
+    <a href="https://github.com/hamsterfromhell/venus-bot"> <!-- update repo name if changed -->
+      🤖 Venus Bot — Discord study helper & productivity bot
+    </a>
+  </p>
 
-### 🔥 Currently
-- Building Discord bots that 10k+ servers use
-- Learning C++, Rust & Next.js 15
-- Drinking way too much coffee ☕
+ <br><br>
+ 
+  <h3>🔥 Currently</h3>
 
-### 🛠️ Tech Stack
-```TypeScript  ██████░░░░░░░░░``` <br>
-```Python      █████░░░░░░░░░░```<br>
-```Rust        ███░░░░░░░░░░░░```<br>
-```React       ██████░░░░░░░░░```<br>
+  <ul style="list-style: none; padding-left: 0;">
+    <li>👾 Obsessed with making my first real video game</li>
+    <li>🐍 Building Discord bots & small Python projects</li>
+    <li>📚 Grinding through CS50 problem sets</li>
+    <li>🌙 Late-night coding powered by coffee & curiosity</li>
+  </ul>
+<br><br>
 
-  ### Contact me
-  <div align="center" style="margin-top: 30px;">
+  <h3>📬 Let's connect</h3>
+
+  <p>
     <a href="mailto:stilbonmercurius@gmail.com">
-      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
     </a>
-    <a href="[https://linkedin.com/in/your-linkedin](https://www.linkedin.com/in/anvika-d-53a407324/)">
-      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    &nbsp;&nbsp;
+    <a href="https://www.linkedin.com/in/anvika-d-53a407324/">
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
     </a>
-     <img src="https://img.shields.io/badge/Discord.py-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
-  </div>
-<br>
-<sub>Made with curiosity & a dark theme obsession</sub> 
-  
+    &nbsp;&nbsp;
+    <a href="https://discord.com/users/hamster_from_hell">
+      <img src="https://img.shields.io/badge/Discord-@yourtag-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+    </a>
+  </p>
+
+  <br>
+
+  <sub>Made with curiosity, chaos, and a dark theme obsession 🐹🌌</sub>
+
 </div>
