@@ -76,7 +76,7 @@
     </a>
     &nbsp;&nbsp;
     <a href="https://discord.com/users/hamster_from_hell">
-      <img src="https://img.shields.io/badge/Discord-@yourtag-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+      <img src="https://img.shields.io/badge/Discord-@hamster_from_hell-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
     </a>
   </p>
 
