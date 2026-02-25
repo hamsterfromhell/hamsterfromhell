@@ -2,7 +2,7 @@
 
   <h1>hamsterfromhell 🐹🔥</h1>
 
-  <h3>this user wants to be a Video Game Dev real bad</h3>
+  <h3>Nice to meet you! It's Nyx</h3>
 
   <p>
     Python enthusiast • CS50 '25 • Discord bots & small games • creative coder<br>
