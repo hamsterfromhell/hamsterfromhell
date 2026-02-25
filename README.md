@@ -40,20 +40,6 @@
 
   <br><br>
   
-  <h3>🚀 Featured Projects</h3>
-
-  <p>
-    <a href="https://github.com/hamsterfromhell/number-guessing-game">
-      🎲 Number Guessing Game — Tkinter GUI with difficulty modes, stats & binary search tips
-    </a>
-    <br>
-    <a href="https://github.com/hamsterfromhell/venus-bot"> <!-- update repo name if changed -->
-      🤖 Venus Bot — Discord study helper & productivity bot
-    </a>
-  </p>
-
- <br><br>
- 
   <h3>🔥 Currently</h3>
 
   <ul style="list-style: none; padding-left: 0;">
