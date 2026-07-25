@@ -15,7 +15,7 @@
 
 Building productivity software, Discord applications, and data-driven tools with a focus on creating software that's both practical and enjoyable to use.
 
-Currently studying **Data Science** at the **University of Regina**.
+Currently studying **DS** @ UoR 
 
 </div>
 
@@ -27,7 +27,7 @@ Currently studying **Data Science** at the **University of Regina**.
 $ whoami
 
 Name        : kexnyxie
-Location    : Regina, Saskatchewan
+Age         : 19
 Education   : B.Sc. Data Science
 Focus       : Software Development • Automation • Data Science
 
