@@ -27,11 +27,12 @@ Currently studying **DS** @ UoR
 $ whoami
 
 Name        : kexnyxie
-Age         : 19
+Location    : Canada
 Education   : B.Sc. Data Science
 Focus       : Software Development • Automation • Data Science
 
 Current Project
+└── Basic projects for practice
 └── Gyeol Study Bot v2
 
 Currently Learning
